@@ -1,0 +1,24 @@
+{
+  "name": "gulp-project",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veter-Maksim",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp-file-include": "^2.0.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
